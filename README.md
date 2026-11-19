@@ -10,6 +10,9 @@
 
 Reference toolkit for building a CMMC Level 2 enclave on GCC High: tool evaluation framework and decision matrix mapped to NIST SP 800-171.
 
+> [!NOTE]
+> **Background:** I built this to work through a problem from my day-to-day MSP work. It contains no client data, vendor picks or pricing, so it can be public.
+
 > [!IMPORTANT]
 > This is **not legal, compliance, or assessment advice.** See the [disclaimer](#-disclaimer) before relying on any mapping.
 

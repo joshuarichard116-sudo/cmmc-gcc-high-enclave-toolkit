@@ -1,0 +1,20 @@
+Criterion,NIST SP 800-171 family ID,NIST SP 800-171 family name
+FedRAMP authorization level / equivalency,3.13,System and Communications Protection
+FedRAMP authorization level / equivalency,3.12,Security Assessment
+GCC High availability,3.13,System and Communications Protection
+Data residency,3.13,System and Communications Protection
+Data residency,3.8,Media Protection
+FIPS 140 validated cryptography,3.13,System and Communications Protection
+FIPS 140 validated cryptography,3.1,Access Control
+US-persons support,3.9,Personnel Security
+US-persons support,3.1,Access Control
+Identity and access integration,3.1,Access Control
+Identity and access integration,3.5,Identification and Authentication
+Logging and audit,3.3,Audit and Accountability
+Shared responsibility,3.12,Security Assessment
+SPRS / SSP evidence,3.12,Security Assessment
+Incident response and reporting,3.6,Incident Response
+Integration (boundary and configuration),3.4,Configuration Management
+Integration (boundary and configuration),3.13,System and Communications Protection
+Cost,N/A,Not a control criterion (business input)
+Exit / portability (data export and deletion),3.8,Media Protection

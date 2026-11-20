@@ -8,6 +8,8 @@
   <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-423D33?labelColor=27241D">
 </p>
 
+> 🌐 Part of [Joshua Richard's portfolio](https://joshuarichard116-sudo.github.io/jrichard-web/) · Lead Engineer, CMMC & GCC High · also see the [playable firewall lab](https://joshuarichard116-sudo.github.io/jrichard-web/labs/talvex-firewall/)
+
 Reference toolkit for building a CMMC Level 2 enclave on GCC High: tool evaluation framework and decision matrix mapped to NIST SP 800-171.
 
 > [!NOTE]
